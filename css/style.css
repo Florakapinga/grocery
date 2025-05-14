@@ -15,21 +15,26 @@ body {
 .logo {
   margin: 20px;
 }
-.logo p {
+.logoInformation {
+  display: flex;
+}
+
+.logoInformation p {
   color: green;
 }
 .logo img {
   height: 29px;
+  margin-left: 30px;
 }
-.logo h5 {
+.todo p {
   color: rgb(245, 167, 22);
 }
 .lists ul {
   display: flex;
   list-style: none;
-  background-color: blue;
+
   padding: 18px;
-  margin: 19px;
+  margin: 20px;
   margin-right: 100px;
   margin-left: 100px;
 }
@@ -42,7 +47,7 @@ body {
 .rightSideHeader {
   display: flex;
   margin: 30px;
-  background-color: blue;
+
   padding: 20px;
   margin-left: 200px;
 }
