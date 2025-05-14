@@ -16,3 +16,18 @@
 .logo h5 {
   color: rgb(245, 167, 22);
 }
+.lists ul {
+  display: flex;
+  margin: 20px;
+}
+.lists ul li a {
+  color: black;
+}
+.headerIcon img {
+  height: 12px;
+}
+.rightSideHeader {
+  display: flex;
+  margin: 20px;
+  background-color: blue;
+}
