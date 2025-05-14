@@ -37,13 +37,14 @@ body {
   color: black;
 }
 .headerIcon img {
-  height: 12px;
+  height: 25px;
 }
 .rightSideHeader {
   display: flex;
-  margin: 50px;
+  margin: 30px;
   background-color: blue;
   padding: 20px;
+  margin-left: 200px;
 }
 .lists ul li {
   margin: 20px;
