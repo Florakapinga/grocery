@@ -4,8 +4,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  margin: 35px;
+  background-color: rgb(217, 212, 202);
+}
 .header {
   display: flex;
+}
+.logo {
+  margin: 20px;
 }
 .logo p {
   color: green;
@@ -18,7 +25,12 @@
 }
 .lists ul {
   display: flex;
-  margin: 20px;
+  list-style: none;
+  background-color: blue;
+  padding: 18px;
+  margin: 19px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 .lists ul li a {
   color: black;
@@ -28,6 +40,21 @@
 }
 .rightSideHeader {
   display: flex;
-  margin: 20px;
+  margin: 50px;
   background-color: blue;
+  padding: 30px;
+}
+.lists ul li {
+  margin: 20px;
+}
+.headerIcon {
+  margin: 2px;
+}
+.signupbuton {
+  margin-left: 20px;
+}
+.signupbuton button {
+  padding: 5px;
+  background-color: black;
+  color: white;
 }
