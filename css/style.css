@@ -10,6 +10,7 @@ body {
 }
 .header {
   display: flex;
+  background-color: white;
 }
 .logo {
   margin: 20px;
@@ -42,7 +43,7 @@ body {
   display: flex;
   margin: 50px;
   background-color: blue;
-  padding: 30px;
+  padding: 20px;
 }
 .lists ul li {
   margin: 20px;
