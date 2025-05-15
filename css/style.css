@@ -10,10 +10,11 @@ body {
 }
 .header {
   display: flex;
-  background-color: white;
+  padding: 10px;
+  margin-right: 2px;
 }
 .logo {
-  margin: 20px;
+  margin: 15px;
 }
 .logoInformation {
   display: flex;
@@ -32,7 +33,6 @@ body {
 .lists ul {
   display: flex;
   list-style: none;
-
   padding: 18px;
   margin: 20px;
   margin-right: 100px;
@@ -46,13 +46,13 @@ body {
 }
 .rightSideHeader {
   display: flex;
-  margin: 30px;
+  margin: 25px;
 
   padding: 20px;
   margin-left: 200px;
 }
 .lists ul li {
-  margin: 20px;
+  margin: 19px;
 }
 .headerIcon {
   margin: 2px;
@@ -61,7 +61,7 @@ body {
   margin-left: 20px;
 }
 .signupbuton button {
-  padding: 5px;
+  padding: 7px;
   background-color: black;
   color: white;
 }
