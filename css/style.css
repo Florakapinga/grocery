@@ -67,3 +67,7 @@ body {
 .informationImage {
   display: flex;
 }
+.informationImage img {
+  height: 20px;
+  width: 15px;
+}
