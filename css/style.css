@@ -64,3 +64,6 @@ body {
   background-color: black;
   color: white;
 }
+.informationImage {
+  display: flex;
+}
