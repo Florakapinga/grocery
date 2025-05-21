@@ -84,7 +84,8 @@ body {
   margin-top: 10px;
 }
 .shopnow button {
-  padding: 9px;
-  background-color: orangered;
+  padding: 5px;
+  background-color: rgb(227, 103, 58);
   color: white;
+  margin-top: 10px;
 }
