@@ -67,8 +67,8 @@ body {
 .informationImage {
   display: flex;
   color: rgb(247, 116, 203);
-  background-color: pink;
-  margin-right: 79%;
+  background-color: rgb(253, 232, 235);
+  margin-right: 70%;
 }
 .informationImage img {
   height: 20px;
