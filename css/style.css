@@ -67,6 +67,7 @@ body {
 .informationImage {
   display: flex;
   color: rgb(247, 116, 203);
+  background-color: pink;
 }
 .informationImage img {
   height: 20px;
