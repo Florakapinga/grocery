@@ -95,8 +95,12 @@ body {
   background-color: black;
   margin-right: 70%;
   width: 30%;
+  justify-content: space-between;
 }
 .AppstoreButton {
+  width: 15%;
+}
+.playstoreButton {
   width: 15%;
 }
 .playstoreButton button {
