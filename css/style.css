@@ -90,13 +90,10 @@ body {
   margin-top: 12px;
   margin-bottom: 20px;
 }
-.playstoreButton {
-  display: flex;
-}
 .playstoreButton button {
   color: white;
   background-color: black;
-  height: 50px;
+  padding: 10px;
 }
 .playstore img {
   width: 20px;
@@ -108,7 +105,7 @@ body {
 }
 .AppstoreButton img {
   display: flex;
-  width: 25px;
+  width: 30px;
   background-color: white;
 }
 .AppstoreButton button {
