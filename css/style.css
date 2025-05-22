@@ -93,3 +93,7 @@ body {
 .playstoreButton {
   display: flex;
 }
+.playstore img {
+  width: 20px;
+  height: 20px;
+}
