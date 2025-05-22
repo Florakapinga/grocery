@@ -90,6 +90,9 @@ body {
   margin-top: 12px;
   margin-bottom: 20px;
 }
+.whereToGet {
+  display: flex;
+}
 .playstoreButton button {
   color: white;
   background-color: black;
