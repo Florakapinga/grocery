@@ -92,6 +92,12 @@ body {
 }
 .whereToGet {
   display: flex;
+  background-color: black;
+  margin-right: 70%;
+  width: 30%;
+}
+.AppstoreButton {
+  width: 15%;
 }
 .playstoreButton button {
   color: white;
