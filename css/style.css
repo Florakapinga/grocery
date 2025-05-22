@@ -99,9 +99,11 @@ body {
 }
 .AppstoreButton {
   width: 15%;
+  display: flex;
 }
 .playstoreButton {
   width: 15%;
+  display: flex;
 }
 .playstoreButton button {
   color: white;
