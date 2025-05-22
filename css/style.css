@@ -93,6 +93,10 @@ body {
 .playstoreButton {
   display: flex;
 }
+.playstoreButton button {
+  color: white;
+  background-color: black;
+}
 .playstore img {
   width: 20px;
   height: 20px;
