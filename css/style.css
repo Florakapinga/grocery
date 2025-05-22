@@ -90,6 +90,11 @@ body {
   margin-top: 12px;
   margin-bottom: 20px;
 }
+.forServices {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
 .whereToGet {
   display: flex;
   background-color: black;
