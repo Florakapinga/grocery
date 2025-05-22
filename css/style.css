@@ -101,3 +101,12 @@ body {
   width: 20px;
   height: 20px;
 }
+.AppstoreButton img {
+  display: flex;
+  width: 20px;
+  background-color: white;
+}
+.AppstoreButton button {
+  background-color: black;
+  color: white;
+}
