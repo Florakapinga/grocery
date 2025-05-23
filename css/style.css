@@ -125,9 +125,7 @@ body {
   display: flex;
 }
 .imageSide img {
-  width: 100%;
-  height: 100%;
-  margin-left: 40px;
+  margin-left: 50%;
   background-color: black;
 }
 
