@@ -64,6 +64,7 @@ body {
   background-color: black;
   color: white;
 }
+
 .informationImage {
   display: flex;
   color: rgb(247, 116, 203);
@@ -126,7 +127,7 @@ body {
 }
 .imageSide img {
   margin-left: 50%;
-  background-color: black;
+  margin-right: 0%;
 }
 
 /* .whereToGet {
