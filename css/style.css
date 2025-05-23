@@ -123,6 +123,7 @@ body {
 }
 .contents {
   display: flex;
+  background-color: white;
 }
 .imageSide img {
   width: 40px;
