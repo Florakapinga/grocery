@@ -97,6 +97,32 @@ body {
 
 .whereToGet {
   display: flex;
+  width: 50%;
+}
+
+.whereToGet img {
+  width: 20px;
+  height: 70%;
+  background-color: white;
+}
+
+.whereToGet button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border: none;
+  padding: 4px;
+  border-radius: 2px;
+  margin-right: 1rem;
+}
+
+.store-content {
+  color: white;
+  margin-left: 1rem;
+}
+/* .whereToGet {
+  display: flex;
   background-color: black;
   margin-right: 70%;
   width: 30%;
@@ -117,11 +143,11 @@ body {
   width: 20px;
   height: 20px;
 }
-.AppStore img {
+img {
   width: 20px;
   height: 20px;
 }
-.AppstoreButton img {
+img {
   display: flex;
   width: 30px;
   background-color: white;
@@ -129,4 +155,4 @@ body {
 .AppstoreButton button {
   background-color: black;
   color: white;
-}
+} */
