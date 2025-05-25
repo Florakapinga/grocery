@@ -107,7 +107,7 @@ body {
   background-color: white;
 }
 
-.whereToGet button {
+/* .whereToGet button {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -115,8 +115,10 @@ body {
   border: none;
   border-radius: 2px;
   margin-right: 1rem;
+} */
+.whereToGet {
+  background-color: black;
 }
-
 .store-content {
   color: white;
   margin-left: 1rem;
