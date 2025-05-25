@@ -119,7 +119,7 @@ body {
 .whereToGet button {
   background-color: black;
   margin: 10px;
-  height: 60px;
+  align-items: center;
 }
 .store-content {
   color: white;
