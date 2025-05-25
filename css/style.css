@@ -118,6 +118,8 @@ body {
 } */
 .whereToGet button {
   background-color: black;
+  margin: 10px;
+  height: 60px;
 }
 .store-content {
   color: white;
