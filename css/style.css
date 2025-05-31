@@ -116,10 +116,16 @@ body {
   border-radius: 2px;
   margin-right: 1rem;
 } */
+
 .whereToGet button {
   background-color: black;
   margin: 10px;
   align-items: center;
+  width: 320px;
+  display: flex;
+  border: none;
+  border-radius: 3px;
+  padding: 2px 4px;
 }
 .store-content {
   color: white;
